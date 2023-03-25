@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Federico 👋.
 
-<!--
-**113893-NEUMAN/113893-NEUMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## About me
+    👨🏼 I'm 25 years old.
+    🌱 I'm studying to be an University Technician in Programming at "Universidad Tecnologina Nacional (UTN)".
+    🔭 I'm working at the IT area of a commercial reports enterprise.
+ 
+ ## Skills
+<details>
+<summary>Languages</summary>
 
-Here are some ideas to get you started:
+   | Languages | Skill  |
+   |----------:|--------|
+   |  Spanish  | Native |
+   |  English  |Advanced|
+   | Portuguese|Beginner|
+</details>
+<details>
+<summary>Programming Languages</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   | Languages |    Skill   |
+   |----------:|------------|
+   |Javascript |Intermediate|
+   |     C#    |Intermediate|
+   |    SQL    |Intermediate|
+
+</details>
+
